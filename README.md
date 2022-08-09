@@ -1,2 +1,2 @@
 # Portable-Nucleic-Acid-Detection
-app code
+液滴自动计数app code
